@@ -7,7 +7,7 @@ The closest parent `package.json` will be used. If no `package.json` is found, t
 
 This rule supports the following options:
 
-`devDependencies`: If set to `false`, then the rule will show an error when `devDependencies` are imported. Defaults to `true`.
+`devDependencies`: If set to `false`, then the rule will show an error when `devDependencies` are imported. Defaults to `false`.
 
 `optionalDependencies`: If set to `false`, then the rule will show an error when `optionalDependencies` are imported. Defaults to `true`.
 
